@@ -1,0 +1,3 @@
+﻿  Library.cpp
+D:\Univer\RMV-2024\RMV-2024\Library\Library.cpp(7,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Library.vcxproj -> D:\Univer\RMV-2024\RMV-2024\Debug\Library.lib
