@@ -1,0 +1,4 @@
+program
+{
+   def line ln = "jdjdkkdsffhj aknkshaghvhj tuht eyr hwsngkuolwrlu sykj FDHADT GBFSHEFCyhh  dgftsdtwg ytwytg wgjjdjdkkdsffhj aknks hagh vhj tuht eyr hwsng kuolw rlu sykjFDHA  hejhjhdst egtuwtuwtwutyuw wthsghghafyfd aefgafhdvaj dgftsdtwg ytwytg wgjjdjdkkdsffhj aknks hagh vhj tuht eyr hwsng kuolw rlu sykjFDHA  hejhjhdst egtuwtuwtwutyuw wthsghghafyfd aefgafhdvajdgftsdtwg ytwytg wgjjdjdkkdsffhj aknks hagh vhj tuht eyr hwsng kuolw rlu sykjFDHA  hejhjhdst egtuwtuwtwutyuw wthsghghafyfd aefgafhdvaj ";
+}
